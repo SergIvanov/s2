@@ -1789,14 +1789,14 @@ p {
 }
 
 .service-section .service-item {
-  border-radius: 20px;
-  -webkit-box-shadow: 0 10px 35px rgba(0, 173, 181, 0.14);
-  box-shadow: 0 10px 35px rgba(0, 173, 181, 0.14);
-  -webkit-transition: all 0.3s ease-out 0s;
-  transition: all 0.3s ease-out 0s;
-  position: relative;
-  padding: 40px;
-  z-index: 1;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 10px 35px rgba(226,45,82,0.14);
+    box-shadow: 0 10px 35px rgba(226,45,82,0.14);
+    -webkit-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    position: relative;
+    padding: 40px;
+    z-index: 1;
 }
 
 .service-section .service-item .service-icon svg path {
@@ -2155,9 +2155,10 @@ p {
   margin-right: 0;
 }
 
-.subscribe-section .subscribe-wrapper .subscribe-links ul li:first-child a i {
+/*.subscribe-section .subscribe-wrapper .subscribe-links ul li:first-child a i {
   background: #00ADB5;
 }
+*/
 
 @media (max-width: 767px) {
   .subscribe-section .subscribe-wrapper .subscribe-links ul li:first-child {
